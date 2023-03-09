@@ -1,4 +1,4 @@
-We have written our code in Python in order to compile and run for part1 using pyhthon3.10
+I have written my code in Python in order to compile and run for part1 using pyhthon3.10
 	python main.py part1
 after this run, 3 .txt result files for n 6,8,10 will be created in the same directory with main.py and the requested console output of LasVegas probabilities will be written 
 
